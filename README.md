@@ -18,7 +18,7 @@ AI Engineer | 持续学习者
 
 [![GitHub](https://img.shields.io/badge/GitHub-songby1024-181717?style=flat&logo=github)](https://github.com/songby1024)
 [![Email](https://img.shields.io/badge/Email-songby1024@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:songby1024@gmail.com)
-[![Website](https://img.shields.io/badge/Website-songby1024.cn-0866FF?style=flat&logo=google-chrome&logoColor=white)](https://songby1024.cn)
+[![Website](https://img.shields.io/badge/Website-songby1024.cn-0866FF?style=flat&logo=google-chrome&logoColor=white)](http://songby1024.cn)
 
 ---
 
