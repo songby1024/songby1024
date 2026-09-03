@@ -1,14 +1,14 @@
 # Hey, I'm Songby 👋
 
-AI Engineer | 持续学习者
+AI Engineer | Lifelong Learner
 
 ---
 
 ## 🔭 About Me
 
-- 🤖 专注 AI 工程化落地，持续探索大模型应用与智能体开发
-- 📚 保持学习，关注 LLM、RAG、Agent、多模态等前沿方向
-- 🛠️ 喜欢用代码解决实际问题，把 AI 从 Demo 做到 Production
+- 🤖 Focused on industrializing AI, continuously exploring LLM applications and agent development
+- 📚 Always learning — keeping up with cutting-edge areas like LLM, RAG, Agent, and Multimodal AI
+- 🛠️ Enjoy solving real-world problems with code, taking AI from demo to production
 
 ## 🧰 Tech Stack
 
